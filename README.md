@@ -7,4 +7,4 @@ https://github.com/Amir-Ali-777/TicTacToe_with_additional_customizations/blob/ma
 https://github.com/Amir-Ali-777/TicTacToe_with_additional_customizations/blob/master/TIC%20TAC%20TOE%20Game%20Screen.jpg
 * The has sound effects on taps, wins and draws.
 * The win or draw shows the animation with the sound effect.
-https://github.com/Amir-Ali-777/TicTacToe_with_additional_customizations/blob/master/TIC%20TAC%20TOE%20Game%20Screen.jpg
+https://github.com/Amir-Ali-777/TicTacToe_with_additional_customizations/blob/master/TIC%20TAC%20TOE%20Player%20WIns.jpg
